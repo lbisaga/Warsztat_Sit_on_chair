@@ -14,7 +14,6 @@
 header {
 	margin: 0 auto;
 	background-color: black;
-	width: 800px;
 	height: 40px;
 	padding-bottom: 10px;
 }
@@ -27,6 +26,11 @@ header h1 {
 	position: absolute;
 	top: 6px;
  }
+
+span {
+	color: turquoise;
+	font-weight: 700;
+}
 
 #menu {
 	color: white;
@@ -46,7 +50,6 @@ header h1 {
 #armchair {
 	background: -webkit-linear-gradient(white, #CFCFCF);
 	margin: 0 auto;
-	width: 800px;
 	height: 350px;
 }
 
